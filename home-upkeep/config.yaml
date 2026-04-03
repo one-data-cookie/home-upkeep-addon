@@ -1,9 +1,9 @@
 name: Home Upkeep
 description: "Track recurring maintenance, cleaning, gardening, and other household chores"
-version: "0.1.0"
+version: "0.1.1"
 slug: home-upkeep
-image: "ghcr.io/tonyroberts/home-upkeep-addon-{arch}"
-url: "https://github.com/tonyroberts/home-upkeep-addon"
+image: "ghcr.io/one-data-cookie/home-upkeep-addon-{arch}"
+url: "https://github.com/one-data-cookie/home-upkeep-addon"
 init: false
 ingress: true
 host_network: false

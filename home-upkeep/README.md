@@ -8,7 +8,7 @@ Instead, it is useful for tracking tasks that need doing _when you have time_.
 
 For example, I use it to track things that need doing. When I wake up on a weekend with some free time, I can check what needs doing around the house and in the garden.
 
-If you find it useful, please consider buying me a coffee.
+If you find it useful, please consider buying the original creator a coffee.
 
 <a href="https://www.buymeacoffee.com/tonyroberts" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="210px"></a>
 
@@ -40,7 +40,7 @@ You can snooze tasks if conditions aren't right, ensuring you see them again whe
 
 ## Screenshots
 
-<img src="https://github.com/tonyroberts/home-upkeep-addon/blob/main/home-upkeep/screenshot.png?raw=true" width="500">
+<img src="https://github.com/one-data-cookie/home-upkeep-addon/blob/main/home-upkeep/screenshot.png?raw=true" width="500">
 
 ### Installation
 
@@ -50,10 +50,10 @@ To make your task lists available as Home Assistant todo entities, you'll also n
 
 To use the add-on and custom integration:
 
-1. Add the repository [https://github.com/tonyroberts/home-upkeep-addon](https://github.com/tonyroberts/home-upkeep-addon) to your addon repositories
+1. Add the repository [https://github.com/one-data-cookie/home-upkeep-addon](https://github.com/one-data-cookie/home-upkeep-addon) to your addon repositories
 2. Install and start the Home Upkeep add-on, optionally selecting the 'Add to sidebar' option
 3. Install the Home Upkeep integration using HACS or manually
-   - Add the repository [https://github.com/tonyroberts/home-upkeep-component](https://github.com/tonyroberts/home-upkeep-component) to your HACS custom repositories, using type 'integration'
+   - Add the repository [https://github.com/one-data-cookie/home-upkeep-component](https://github.com/one-data-cookie/home-upkeep-component) to your HACS custom repositories, using type 'integration'
    - Install the Home Upkeep custom integration
    - Add the integration under Settings -> Devices & services
 
